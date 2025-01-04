@@ -29,3 +29,5 @@ flutter:
   assets:
     - assets/AppLogo.png
     - assets/svg/backbutton.svg
+    - assets/svg/
+    - assets/
